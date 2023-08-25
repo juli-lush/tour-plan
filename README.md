@@ -1,3 +1,3 @@
 # tour-plan
 
-Lushnikova Julia (новый проект-урок)
+Lushnikova Julia (новый проект-урок от 25.08.2023)
